@@ -1,4 +1,5 @@
 # 📌 Interactive Text Manipulation Project
+[Live demo](https://grizeus.github.io/dev-3/)
 
 ## 📝 Project Overview
 This is a simple web-based text manipulation tool that allows users to enter a string, display it on the screen, and interact with individual characters in unique ways. Users can:  
